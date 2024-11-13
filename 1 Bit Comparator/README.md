@@ -1,1 +1,1 @@
-# 1 Bit Comparator using 4:1 Mutliplexor
+# 1 Bit Comparator using 4:1 Multiplexor
