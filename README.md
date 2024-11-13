@@ -1,1 +1,1 @@
-# 1 Bit Comparator using 4:1 Multiplexor
+# RTL Coding of various Digital designs using Verilog HDL, simulated on EDA Playground.
