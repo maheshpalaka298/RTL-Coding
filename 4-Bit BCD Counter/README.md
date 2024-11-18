@@ -1,1 +1,1 @@
-# 4 Bit BCD Counter in Verilog HDL, Simulated in EDa Playground
+# 4 Bit BCD Counter in Verilog HDL, Simulated in EDA Playground
