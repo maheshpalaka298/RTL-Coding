@@ -39,3 +39,5 @@ module piso_reg(d, clk, sl, q);
   
     dff dd(d3,clk,q);
 endmodule 
+
+//structural model
