@@ -23,7 +23,7 @@ module sipo_reg(
   	end
 endmodule
 
-// Serial-in-serial-out left shift Register
+// Serial-in-parallel-out left shift Register
 
 
 // module sipo_reg(
